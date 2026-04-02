@@ -1,2 +1,7 @@
-# Amazon-Clone-
-An Amazon clone built using HTML and CSS with a responsive layout and modern UI design.
+## Screenshots 
+### Homepage 
+![Homepage](home.png)
+### products section
+![products] (product.png)
+###[customer review](Review,png) 
+
