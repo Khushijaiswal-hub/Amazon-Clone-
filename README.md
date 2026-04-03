@@ -18,7 +18,7 @@
 2. open 'amazon.html' in your browser
 
  <br>
- ✨**Future Improvements** 
+ ✨Future Improvements 
  <br>
  .Add sound effects.
  <br>
