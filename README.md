@@ -19,6 +19,7 @@
 
  <br>
  ## Future Improvements 
+ <br>
  .Add sound effects.
  <br>
  .improve UI
