@@ -13,12 +13,12 @@
 .JavaScript
 <br>
 
-##How to run
+▶**How to run**
 1. clone the repository
 2. open 'amazon.html' in your browser
 
  <br>
- ## Future Improvements 
+ ✨**Future Improvements** 
  <br>
  .Add sound effects.
  <br>
